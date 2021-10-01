@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;600;800;900&display=swap');
+
+$theme-colors: (
+  "primary":  hsl(225, 100%, 94%),
+  "danger": hsl(245, 75%, 52%),
+  "dark" : hsl(224, 23%, 55%)
+);
+
+$font-family-sans-serif : 'Red Hat Display', sans-serif;
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss'

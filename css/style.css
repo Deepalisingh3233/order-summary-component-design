@@ -1,0 +1,22 @@
+.container{
+    height: 625px;
+}
+.hero{
+    background-image: url('../images/pattern-background-desktop.svg');
+    height: 400px;
+    background-size: cover;
+    /* background-color: hsl(225, 100%, 94%); */
+    position: relative;
+}
+.card{
+    top: 5rem;
+}
+.img{
+    border-radius: 5px 5px 0 0;
+}
+.card-content{
+    font-size: 16px;
+}
+.link{
+    color: hsl(245, 75%, 52%);
+}
